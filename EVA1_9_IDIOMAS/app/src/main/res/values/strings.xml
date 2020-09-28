@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">EVA1_9_IDIOMAS</string>
+
+    <string name="btn_es_Ing">E</string>
+    <string name="btn_es_Es">EVA1_9_IDIOMAS</string>
+    <string name="txt_es_View1">EVA1_9_IDIOMAS</string>
+    <string name="txt_es_View2">EVA1_9_IDIOMAS</string>
+    <string name="hin_es_tName">EVA1_9_IDIOMAS</string>
+    <string name="hin_es_tLastName">EVA1_9_IDIOMAS</string>
+    <string name="btn_es_Mucho">EVA1_9_IDIOMAS</string>
+    <string name="btn_es_Poco">EVA1_9_IDIOMAS</string>
+    <string name="btn_es_Nada">EVA1_9_IDIOMAS</string>
+
+
+    <string name="btn_en_Ing">EVA1_9_IDIOMAS</string>
+    <string name="btn_en_Es">EVA1_9_IDIOMAS</string>
+    <string name="txt_en_View1">EVA1_9_IDIOMAS</string>
+    <string name="txt_en_View2">EVA1_9_IDIOMAS</string>
+    <string name="hin_en_tName">EVA1_9_IDIOMAS</string>
+    <string name="hin_en_tLastName">EVA1_9_IDIOMAS</string>
+    <string name="btn_e_Mucho">EVA1_9_IDIOMAS</string>
+    <string name="btn_en_Poco">EVA1_9_IDIOMAS</string>
+    <string name="btn_en_Nada">EVA1_9_IDIOMAS</string>
+
+
+</resources>
